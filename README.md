@@ -1,3 +1,5 @@
+**Introdução**
+
 Esta análise exploratória faz parte do curso de Profissão: Analista de Dados pela plataforma de estudos EBAC.
 
 Iremos utilizar Python e suas bibliotecas através da plataforma *Google Collab* para geração de códigos e construção de relatório.
