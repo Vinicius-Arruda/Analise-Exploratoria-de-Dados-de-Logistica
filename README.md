@@ -1,3 +1,7 @@
+Esta análise exploratória faz parte do curso de Profissão: Analista de Dados pela plataforma de estudos EBAC.
+
+Iremos utilizar Python e suas bibliotecas através da plataforma *Google Collab* para geração de códigos e construção de relatório.
+
 **Análise Exploratória de Dados da empresa Logística Loggi** 
 
 Iremos analisar os dados da empresa de logística Loggi, na qual foram disponibilizados dados de entrega para o Distrito Federal.
